@@ -1,9 +1,15 @@
 html {
 	background-color: black;
 	<!>background-image: url("AVALove.jpg");</!>
+	height: 100%;
+	background-image: url("young_london.jpeg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 body {
 	color: red;
-	text-align: center;
-	padding: 70px 0;
+	text-align: right;
+	padding: 70px 70;
+	height: 100%;
 	}
