@@ -8,7 +8,7 @@ html {
 	background-size: cover;
 }
 body {
-	color:   #ff9157;
+	color:   #4dd3e1;
 	text-align: right;
 	padding: 70px 70;
 	height: 100%;
@@ -16,7 +16,6 @@ body {
 .boxed {
   display: inline-block;
   text-align: left;
-  padding: 20;
   background-color:  black;
   opacity: 0.5;
 	
