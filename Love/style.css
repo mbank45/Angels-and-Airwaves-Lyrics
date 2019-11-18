@@ -8,8 +8,16 @@ html {
 	background-size: cover;
 }
 body {
-	color: red;
+	color:   #ff9157;
 	text-align: right;
 	padding: 70px 70;
 	height: 100%;
 	}
+.boxed {
+  display: inline-block;
+  text-align: left;
+  padding: 20;
+  background-color:  black;
+  opacity: 0.5;
+	
+} 
